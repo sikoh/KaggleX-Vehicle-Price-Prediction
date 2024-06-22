@@ -25,3 +25,5 @@ id,price
 54274,39218.443
 54275,39218.443
 etc.
+
+www.kaggle.com/competitions/kagglex-cohort4/overview/evaluation
