@@ -15,10 +15,12 @@ Submissions are scored on the root mean squared error. RMSE is defined as:
 <br>
 <br>
 RMSE=(1𝑁∑𝑖=1𝑁(𝑦𝑖−𝑦ˆ𝑖)2)12
+<br>
 where 𝑦ˆ𝑖
  is the predicted value and 𝑦𝑖
  is the original value for each instance 𝑖
 .
+<br>
 <br>
 **Submission File**<br>
 For each id in the test set, you must predict the price of the car. The file should contain a header and have the following format:
