@@ -44,14 +44,17 @@ outliers in datasets ('train.csv' and 'test.csv') using statistical methods like
 filtering techniques to remove outliers, ensuring our models were trained on reliable data points, which improved
 their accuracy and reliability.
 <br>
+<br>
 By extracting key features like engine power and car age, I optimized datasets for better predictive performance.
 Utilizing advanced techniques such as One-Hot Encoding for categorical variables and StandardScaler for
 numerical features, I standardized data to enhance model precision.
+<br>
 <br>
 Implementing K-fold cross-validation with XGBoost allowed me to fine-tune model parameters effectively,
 resulting in significant improvements in model performance. Evaluation using metrics like Mean Squared Error
 (MSE) and R2 Score demonstrated the effectiveness of our approach, achieving an MSE of approximately 122.3
 million and an R2 Score of 0.67 on validation data.
+<br>
 <br>
 This project showcased my ability to manage data intricacies, ensuring robust model training and validation. It
 highlighted my proficiency in feature engineering and advanced machine learning techniques, contributing to
