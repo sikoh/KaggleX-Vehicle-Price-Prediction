@@ -38,11 +38,8 @@ www.kaggle.com/competitions/kagglex-cohort4/overview/evaluation
 
 ---------------------------------------------------------------------------------------------
 
-Led the Vehicle Price Prediction project, leveraging Python libraries such as Pandas, Scikit-learn, XGBoost, and
-TensorFlow to process data, engineer features, and build predictive models. My approach involved identifying
-outliers in datasets ('train.csv' and 'test.csv') using statistical methods like Interquartile Range (IQR). I applied
-filtering techniques to remove outliers, ensuring our models were trained on reliable data points, which improved
-their accuracy and reliability.
+My approach involved identifying outliers in datasets ('train.csv' and 'test.csv') using statistical methods like Interquartile Range (IQR). 
+I applied filtering techniques to remove outliers, ensuring our models were trained on reliable data points, which improved their accuracy and reliability.
 <br>
 <br>
 By extracting key features like engine power and car age, I optimized datasets for better predictive performance.
