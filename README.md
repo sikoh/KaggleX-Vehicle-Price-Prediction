@@ -49,7 +49,7 @@ numerical features, I standardized data to enhance model precision.
 <br>
 Implementing K-fold cross-validation with XGBoost allowed me to fine-tune model parameters effectively,
 resulting in significant improvements in model performance. Evaluation using metrics like Mean Squared Error
-(MSE) and R2 Score demonstrated the effectiveness of our approach, achieving an MSE of approximately 122.3
+(MSE) and R2 Score demonstrated the effectiveness of my approach, achieving an MSE of approximately 122.3
 million and an R2 Score of 0.67 on validation data.
 <br>
 <br>
